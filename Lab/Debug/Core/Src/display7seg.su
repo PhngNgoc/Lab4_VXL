@@ -1,0 +1,4 @@
+display7seg.c:10:9:change_displaynumber	16	static
+display7seg.c:24:6:displayled_3and4	24	static
+display7seg.c:50:6:display7SEG1	16	static
+display7seg.c:144:6:display7SEG2	16	static
